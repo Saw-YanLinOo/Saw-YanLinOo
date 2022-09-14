@@ -13,8 +13,11 @@
 <a href="https://www.linkedin.com/in/saw-yan-lin-oo-57903a1a5/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100016791254458">
+  <img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>&nbsp;&nbsp;
 <!--
-<a href="https://www.twitch.tv/jideguru">
+<a href="https://www.twitch.tv/Saw-YanLinOo">
   <img src="https://img.shields.io/badge/twitch-%236441a5.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
 </a>&nbsp;&nbsp;
 -->
