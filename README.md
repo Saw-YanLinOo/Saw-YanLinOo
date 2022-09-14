@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a> 
 -->
+
+![Snake animation](gitartwork.svg)
 </p>
 
 
