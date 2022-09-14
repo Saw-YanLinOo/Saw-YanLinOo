@@ -15,5 +15,5 @@
             # Use this username's contribution graph  
             user_name: saw-yanlinoo
             # Text on contribution graph 
-            text: YanYan
+            text: မင်္ဂလာပါ
        - uses: jasineri/simple-push-action@v1
