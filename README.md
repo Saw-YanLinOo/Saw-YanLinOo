@@ -35,8 +35,8 @@
 </a> 
 -->
 
-![Snake animation](gitartwork.svg)
-</p>
+<!-- ![Snake animation](gitartwork.svg)
+</p> -->
 
 
 
