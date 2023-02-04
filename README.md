@@ -1,3 +1,8 @@
+
+<img align="left" width="33%" src="https://user-images.githubusercontent.com/63788675/216775001-8f29d743-b831-4f7b-b4d6-c5e6c8de1b69.png">
+
+<br><br>
+
 <h1 align='center'>Hi there မဂ်လာပါ 👋🏾 </h1>
 
 <p align='center'>I am a Software Engineer focused on Flutter💙 and Dart💛. <img src="https://gpvc.arturio.dev/Saw-YanLinOo" /></p>
