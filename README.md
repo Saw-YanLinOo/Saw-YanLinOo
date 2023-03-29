@@ -13,7 +13,7 @@
 <a href="https://twitter.com/SawYanlinOo1">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/saw-yan-lin-oo-57903a1a5/">
+<a href="https://www.linkedin.com/in/yan-yan-57903a1a5/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100016791254458">
