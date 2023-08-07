@@ -3,7 +3,7 @@
 
 <h1 align='center'>Hi there မဂ်လာပါ 👋🏾 </h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter💙 and Dart💛. <img src="https://gpvc.arturio.dev/Saw-YanLinOo" /></p>
+<p align='center'>I am a Software Engineer focused on Flutter💙 and Dart💛. <img src="https://komarev.com/ghpvc/?username=Saw-YanLinOo&color=brightgreen" /></p>
 
 
 <p align='center'>
