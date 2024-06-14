@@ -29,7 +29,7 @@
 </a>&nbsp;&nbsp;
 
 <a href="https://linktr.ee/SawYanLinOo">
-  <img src="https://camo.githubusercontent.com/ea7fe29dbf518afa00d69c276811b495b9391897299cd1f88a24a37a78d672fd/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4c696e6b7472656526636f6c6f723d323232323232266c6f676f3d4c696e6b74726565266c6f676f436f6c6f723d343345353545266c6162656c3d" />
+  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>&nbsp;&nbsp;
 
 <!-- <a href="http://wa.me/22961701427?text=Hello Jide">
